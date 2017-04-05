@@ -1,7 +1,7 @@
 cluster-benchmark
 =================
 
-##How to use
+## How to use
 
 1. Download it.
   ```
